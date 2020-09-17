@@ -1,0 +1,30 @@
+#Title {
+   display: flex;
+    justify-content: center;
+    border: solid black;
+    border-radius: 10px;
+
+
+}
+
+#fname{
+    color: red;
+}
+#left{
+    display: flex;
+    align-content: flex-end;
+}
+
+H2{
+    padding-top: 10px;
+
+}
+
+img {
+    float: left;
+    float: bottom;
+}
+
+#SecondImg{
+    border: solid black
+}
